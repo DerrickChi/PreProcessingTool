@@ -1,0 +1,3 @@
+Changes log
+% fix indexes excess boundary in DetermineInitialWinodw.m
+% Modified by Derrick 11/10/2014  
